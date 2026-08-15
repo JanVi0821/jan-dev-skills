@@ -1,0 +1,4 @@
+interface:
+  display_name: "Jan Frontend Development"
+  short_description: "创建、初始化并规范化 Astro、React、Vue 与 Next.js 前端项目"
+  default_prompt: "使用 $jan-fe-dev 创建或规范化一个前端项目，并先完成项目名称、用途、SEO 与框架选择。"
